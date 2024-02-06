@@ -1,6 +1,12 @@
 import requests
 import pandas as pd
 from io import StringIO
+import warnings
+
+
+
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+
 
 # Read parameters from file
 with open("server_address.txt", "r") as file:
