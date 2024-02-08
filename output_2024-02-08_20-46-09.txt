@@ -16,7 +16,7 @@ MAX SPEED                289 Mbit/s
 MAX SPEED(RAW)           36164142.9
 Date Time                07-02-2024 23:16:10
 
- MAX SPEED is within both Upper Error Limit and Upper Warning Limit
+ MAX SPEED is within both Upper Error Limit and Upper Warning Limit (1910.00 Mbps and 1850.00 Mbps)
 
 MIN SPEED                16 Mbit/s
 MIN SPEED(RAW)           1954517.017
